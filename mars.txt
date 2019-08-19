@@ -1,2 +1,8 @@
+monday oh monday
 cold and dry but everything is my fav color
+<<<<<<< HEAD
 i need cat
+=======
+Git and Github are super confusing
+Monday is almost over 
+>>>>>>> 5e12c4ade5b6ea510b714eb572976d430e7a5682
